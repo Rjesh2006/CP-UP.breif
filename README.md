@@ -4,7 +4,7 @@
 
 
 
-## COntrol plane : -
+## Control plane : -
     
 
 
