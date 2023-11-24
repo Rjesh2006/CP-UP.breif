@@ -7,7 +7,7 @@
    plane, the control plane and the management plane are the three basic components of a 
    telecommunications architecture.**
 
-    - Here we will look  for the user palne ( data plane) and the Control plane.
+    - *Here we will look  for the user palne ( data plane) and the Control plane.*
 
 
 ## User plane( data plane) : - 
