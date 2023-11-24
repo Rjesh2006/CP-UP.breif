@@ -32,16 +32,16 @@
 
 # work's b/w Control plane and User plane ( data plane):-
    - we can  also visualiza by this image--
+
+     
      ![image](https://github.com/Rjesh2006/CP-UP.breif/assets/143868643/55f8848f-4f13-4a9e-9ba6-b90dc268a3d3)
 
-  
-    Once the control plane determines how and to which ports packets should be forwarded the data plane refers to the logic and actually forwards the 
-    packets This 
-    is why it is also known as the forwarding plane. Thus the network layer handles all traffic and moves packets from source to destination based on 
-    the actions and 
-    logic programmed and supplied to it by the control plane.
+     
+Once the control plane determines how and to which ports packets should be forwarded the data 
+plane refers to the logic and actually forwards the 
+packets This is why it is also known as the forwarding plane. Thus the network layer handles all traffic and moves packets from source to destination based on the actions and logic programmed and supplied to it by the control plane.
 
-    After sourcing the traffic the data plane sends it on to other network supported devices Routers then forward the packets downstream to their 
-    appropriate 
-    destinations. All data plane packets go through routers and the traffic is tightly controlled to protect the network from malicious network 
-    traffic.
+After sourcing the traffic the data plane sends it on to other network supported devices Routers 
+then forward the packets downstream to their 
+appropriate destinations. All data plane packets go through routers and the traffic is tightly controlled to protect the network from malicious network 
+traffic.
