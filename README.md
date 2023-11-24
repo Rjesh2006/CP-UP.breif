@@ -31,7 +31,7 @@
 
 
 # work's b/w Control plane and User plane ( data plane):-
-   - we can  also visualiza by this image--
+   - **we can  also visualiza by this image--
 
      
      ![image](https://github.com/Rjesh2006/CP-UP.breif/assets/143868643/55f8848f-4f13-4a9e-9ba6-b90dc268a3d3)
