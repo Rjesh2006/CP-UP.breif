@@ -53,3 +53,6 @@ appropriate destinations. All data plane packets go through routers and the traf
 traffic.
 
 - In any network, both the data plane and control plane are required in order to move traffic. The data plane cannot function without the control plane because it requires the logic created by the control plane to determine where traffic should go. In contrast the control plane works independently and doesn't depend on the data plane to determine how and where packets will be transported.
+
+
+*reference by :-techtarget.com*
