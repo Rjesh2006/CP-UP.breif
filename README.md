@@ -1,4 +1,4 @@
-# [Here we will understand whats the control plane and user plane exactly . :-]()
+# [Here we will understand whats the control plane and user plane exactly . :-](https://www.techtarget.com/searchnetworking/definition/control-plane-CP)
 
 # plane in networking:- 
  - **In networking  a plane is not a physicl component but an intangible idea that helps 
