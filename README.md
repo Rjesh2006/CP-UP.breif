@@ -1,6 +1,6 @@
-# [Here we will understand whats the control plane and user plane exactly . :-](https://www.techtarget.com/searchnetworking/definition/control-plane-CP)
+# [Here we will understand whats the control plane and user plane exactly . :](https://www.techtarget.com/searchnetworking/definition/control-plane-CP)
 
-# plane in networking:- 
+# plane in networking: 
  - **In networking  a plane is not a physicl component but an intangible idea that helps 
    concenptualize traffic flows through a network  it refers to a part of the physical network 
    architecture or an area of opereation where certain activities and processes take place. The data 
@@ -10,7 +10,7 @@
     - *Here we will look  for the user palne ( data plane) and the Control plane.*
 
 
-## User plane( data plane) : - 
+## User plane( data plane) :
   *The  date plane sometimes whiich  known as the user plane forwding plane ,carriers plane  
     or bearer plane this is the part of network that carries 
    (user traffic.)*
